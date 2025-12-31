@@ -8,3 +8,6 @@
 ![Root MFA Enabled](root-mfa-enable_No-access-keys.png)
 
    **Skills Learned**
+root vs IAM user
+why root should never be used 
+MFA basics
